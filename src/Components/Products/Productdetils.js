@@ -31,7 +31,7 @@ const Productdetils = ({
               </select>
               <input type="number" value="1" />
               <button
-                class="normal"
+                class="normal mt-1"
                 onClick={() => handleAddproducts(Productsitem)}
               >
                 add to cart
