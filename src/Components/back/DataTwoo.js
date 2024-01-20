@@ -1,0 +1,71 @@
+const productstwo = {
+  Productsitemstwo: [
+    {
+      id: 12,
+      title: "cars pages2",
+      img: "https://cdn.globalso.com/forthingmotor/Forthing-SUV-SX6-main11.jpg",
+      price: 80,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+    {
+      id: 24,
+      title: "cars pages2",
+      img: "https://cdn.globalso.com/forthingmotor/Forthing-SUV-SX6-main11.jpg",
+      price: 50,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+    {
+      id: 35,
+      title: "cars pages2",
+      img: "https://cdn.globalso.com/forthingmotor/Forthing-SUV-SX6-main11.jpg",
+      price: 20,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+    {
+      id: 33,
+      title: "cars pages2",
+      img: "https://cdn.globalso.com/forthingmotor/Forthing-SUV-SX6-main11.jpg",
+      price: 230,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+  ],
+  Productsitemsthre: [
+    {
+      id: 122,
+      title: "cars pages3",
+      img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/8667/1705465218824/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      price: 850,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+    {
+      id: 424,
+      title: "cars pages2",
+      img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/8667/1705465218824/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      price: 500,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+    {
+      id: 385,
+      title: "cars pages2",
+      img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/8667/1705465218824/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      price: 250,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+    {
+      id: 373,
+      title: "cars pages2",
+      img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/8667/1705465218824/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      price: 730,
+      company: "honda",
+      info: "This car is modern and very fast",
+    },
+  ],
+};
+export default productstwo
